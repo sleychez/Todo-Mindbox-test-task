@@ -1,64 +1,64 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
 .addInput {
-  display: flex;
-  align-items: center;
-  padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
 }
 
 .header {
-  padding: 0 1rem;
+    padding: 0 1rem;
 }
 
 .todo {
-  display: flex;
-  margin: 0 1em 1em;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
-  background: #f3f3f3;
-  cursor: pointer;
+    display: flex;
+    margin: 0 1em 1em;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #f3f3f3;
+    cursor: pointer;
 }
 
 .completed {
-  text-decoration: line-through;
+    text-decoration: line-through;
 }
 
 .todo span {
-  width: 100%;
+    width: 100%;
 }
 
 .delete {
-  color: #ef5350;
+    color: #ef5350;
 }
 
 .button {
-  height: 30px;
-  width: fit-content;
-  background-color: #8d24aa;
-  color: white;
-  cursor: pointer;
-  border-radius: 5px;
+    height: 30px;
+    width: fit-content;
+    background-color: #8d24aa;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
 }
 
 .button.active {
-  background-color: #30a99f
+    background-color: #30a99f
 }
 
 .filters {
-  display: flex;
-  gap: 20px;
-  margin-left: 20px;
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
 }

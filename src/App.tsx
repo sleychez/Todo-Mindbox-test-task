@@ -3,12 +3,12 @@ import Navbar from './components/Navbar/Navbar';
 import {BrowserRouter, Route} from "react-router-dom";
 import Todos from './components/Todos/Todos';
 
-const App:React.FC = () => {
+const App: React.FC = () => {
   return (
-      <BrowserRouter>
-        <Navbar/>
-        <Route exact path={'/'} component={Todos}/>
-      </BrowserRouter>
+    <BrowserRouter>
+      <Navbar/>
+      <Route exact path={'/'} component={Todos}/>
+    </BrowserRouter>
   );
 }
 
