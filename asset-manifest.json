@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Todo-Mindbox-test-task/static/css/main.25a4de66.chunk.css",
-    "main.js": "/Todo-Mindbox-test-task/static/js/main.7d18d5af.chunk.js",
-    "main.js.map": "/Todo-Mindbox-test-task/static/js/main.7d18d5af.chunk.js.map",
+    "main.js": "/Todo-Mindbox-test-task/static/js/main.24036824.chunk.js",
+    "main.js.map": "/Todo-Mindbox-test-task/static/js/main.24036824.chunk.js.map",
     "runtime-main.js": "/Todo-Mindbox-test-task/static/js/runtime-main.e9741c8a.js",
     "runtime-main.js.map": "/Todo-Mindbox-test-task/static/js/runtime-main.e9741c8a.js.map",
-    "static/js/2.7b8a5866.chunk.js": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js",
-    "static/js/2.7b8a5866.chunk.js.map": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js.map",
+    "static/js/2.63e92154.chunk.js": "/Todo-Mindbox-test-task/static/js/2.63e92154.chunk.js",
+    "static/js/2.63e92154.chunk.js.map": "/Todo-Mindbox-test-task/static/js/2.63e92154.chunk.js.map",
     "index.html": "/Todo-Mindbox-test-task/index.html",
     "static/css/main.25a4de66.chunk.css.map": "/Todo-Mindbox-test-task/static/css/main.25a4de66.chunk.css.map",
-    "static/js/2.7b8a5866.chunk.js.LICENSE.txt": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js.LICENSE.txt"
+    "static/js/2.63e92154.chunk.js.LICENSE.txt": "/Todo-Mindbox-test-task/static/js/2.63e92154.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9741c8a.js",
-    "static/js/2.7b8a5866.chunk.js",
+    "static/js/2.63e92154.chunk.js",
     "static/css/main.25a4de66.chunk.css",
-    "static/js/main.7d18d5af.chunk.js"
+    "static/js/main.24036824.chunk.js"
   ]
 }
