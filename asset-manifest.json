@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Todo-list/static/css/main.25a4de66.chunk.css",
-    "main.js": "/Todo-list/static/js/main.7d18d5af.chunk.js",
-    "main.js.map": "/Todo-list/static/js/main.7d18d5af.chunk.js.map",
-    "runtime-main.js": "/Todo-list/static/js/runtime-main.a7ef1c3d.js",
-    "runtime-main.js.map": "/Todo-list/static/js/runtime-main.a7ef1c3d.js.map",
-    "static/js/2.7b8a5866.chunk.js": "/Todo-list/static/js/2.7b8a5866.chunk.js",
-    "static/js/2.7b8a5866.chunk.js.map": "/Todo-list/static/js/2.7b8a5866.chunk.js.map",
-    "index.html": "/Todo-list/index.html",
-    "static/css/main.25a4de66.chunk.css.map": "/Todo-list/static/css/main.25a4de66.chunk.css.map",
-    "static/js/2.7b8a5866.chunk.js.LICENSE.txt": "/Todo-list/static/js/2.7b8a5866.chunk.js.LICENSE.txt"
+    "main.css": "/Todo-Mindbox-test-task/static/css/main.25a4de66.chunk.css",
+    "main.js": "/Todo-Mindbox-test-task/static/js/main.7d18d5af.chunk.js",
+    "main.js.map": "/Todo-Mindbox-test-task/static/js/main.7d18d5af.chunk.js.map",
+    "runtime-main.js": "/Todo-Mindbox-test-task/static/js/runtime-main.e9741c8a.js",
+    "runtime-main.js.map": "/Todo-Mindbox-test-task/static/js/runtime-main.e9741c8a.js.map",
+    "static/js/2.7b8a5866.chunk.js": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js",
+    "static/js/2.7b8a5866.chunk.js.map": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js.map",
+    "index.html": "/Todo-Mindbox-test-task/index.html",
+    "static/css/main.25a4de66.chunk.css.map": "/Todo-Mindbox-test-task/static/css/main.25a4de66.chunk.css.map",
+    "static/js/2.7b8a5866.chunk.js.LICENSE.txt": "/Todo-Mindbox-test-task/static/js/2.7b8a5866.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7ef1c3d.js",
+    "static/js/runtime-main.e9741c8a.js",
     "static/js/2.7b8a5866.chunk.js",
     "static/css/main.25a4de66.chunk.css",
     "static/js/main.7d18d5af.chunk.js"
