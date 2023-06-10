@@ -1,2 +1,2 @@
 # React + Typescript todo
-https://sleychez.github.io/Todo-list/
+Можно посмотреть приложение по ссылке: https://sleychez.github.io/Todo-list/
