@@ -13,7 +13,6 @@ const TodoList: React.FC<TodoListProps> = ({todos, deleteHandler, completeHandle
 
         return <TodoItem key={todo.id} todo={todo} deleteHandler={deleteHandler} completeHandler={completeHandler}/>
     })
-
     return (
         <ul>
             {elements}
